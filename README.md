@@ -20,4 +20,4 @@ Promover segurança alimentar e inclusão digital por meio da implementação de
 - EEB Jacó Anderle
 - EEB Intendente José Fernandes
 - E.B. Herondina Medeiros Zeferino
-- EBM Maria Tomázia Coelho# hortas-inteligentes-com-tecnologia
+- EBM Maria Tomázia Coelho
