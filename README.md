@@ -6,9 +6,9 @@ Projeto desenvolvido para a disciplina Atividades Extensionistas II - Tecnologia
 
 ## Objetivo
 
-Promover segurança alimentar e inclusão digital por meio da implementação de hortas inteligentes em escolas públicas e comunidades vulneráveis de Florianópolis - SC.
+Promover a segurança alimentar e a inclusão digital por meio da implementação de hortas inteligentes em escolas públicas e comunidades vulneráveis de Florianópolis - SC.
 
-## Tecnologias Utilizadas
+## Tecnologias que foram Utilizadas
 
 - Python
 - Arduino
@@ -21,13 +21,6 @@ Promover segurança alimentar e inclusão digital por meio da implementação de
 - EEB Intendente José Fernandes
 - E.B. Herondina Medeiros Zeferino
 - EBM Maria Tomázia Coelho
-
-## Tecnologias Utilizadas
-
-- Python
-- Arduino
-- Flutter
-- MySQL
 
 ## Arquivos do Projeto
 
