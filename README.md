@@ -21,3 +21,16 @@ Promover segurança alimentar e inclusão digital por meio da implementação de
 - EEB Intendente José Fernandes
 - E.B. Herondina Medeiros Zeferino
 - EBM Maria Tomázia Coelho
+
+## Tecnologias Utilizadas
+
+- Python
+- Arduino
+- Flutter
+- MySQL
+
+## Arquivos do Projeto
+
+- README.md
+- horta.py
+- Diagrama.png
