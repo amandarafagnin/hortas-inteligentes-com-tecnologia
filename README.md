@@ -15,7 +15,7 @@ Promover a segurança alimentar e a inclusão digital por meio da implementaçã
 - Flutter
 - MySQL
 
-## Escolas Participantes
+## Escolas Participantes do Projeto
 
 - EEB Jacó Anderle
 - EEB Intendente José Fernandes
